@@ -1,0 +1,17 @@
+this is for future jeffrey, 
+
+you have to fix the redirect problem on the log in page - FIXED
+
+you also  have to sanitize and make sure the time and the urls are correct urls for post - FIXED 
+
+you also need to create a watched table to show the things you didnt watch  - FIXED
+
+also create and finish the javascript api call  for someone reason youtube is blocking MORE
+
+create simple form with encrypted sha256 public key only user/ then run a flask/discord bot api to post 
+
+
+
+
+
+EDIT APP.GRAM TO POST MORE YOUTUBERS INSTEAD OF ETHOTS 
